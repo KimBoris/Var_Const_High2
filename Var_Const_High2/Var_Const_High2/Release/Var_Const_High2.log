@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\BBORIS\Documents\GitHub\Var_Const_High2\Var_Const_High2\Var_Const_High2\main.c(105,10): warning C4101: 'act2' :참조되지 않은 지역 변수입니다.
+Test.obj : error LNK2001: 확인할 수 없는 외부 기호 _printf
+C:\Users\BBORIS\Documents\GitHub\Var_Const_High2\Var_Const_High2\Release\Var_Const_High2.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
